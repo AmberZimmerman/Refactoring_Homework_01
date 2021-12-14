@@ -162,15 +162,8 @@ main {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
+/* Remove redundant classes and use the img element */
+img {
     max-height: 200px;
 }
 
