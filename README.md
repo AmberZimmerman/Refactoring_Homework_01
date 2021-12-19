@@ -2,5 +2,4 @@
 
 Refactoring html and css for the Horiseon homepage. Implemented semantic structure for html elements to improve the accessibilty of the webpage while maintaining the original look of the page.
 
-
-description, screenshot, and link to deployed application
+![Shows the fold of the Horiseon Webpage with navigation bar and main image](./assets/images/horiseon-screenshot.png)
